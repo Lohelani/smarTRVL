@@ -30,13 +30,16 @@ Project Description: Goal of the project is to simplify the unknown risk of trav
 API's Used: SkyScanner, COVID-19 Coronavirus Statistics
 
 Team Manager: Kaitlin Kenney
+
 FE Team: Kaitlin Kenney, Vanessa Orellana, Aaron Lu
+
 BE Team: Maxwell Yu, Lohelani Hicks
+
 *Both teams contributed to both BE and FE
 
 # Link to Deployed Application:
 
-https://kaitlinkenney.github.io/SmartTrvlApp/
+https://lohelani.github.io/smarTRVL/
 
 # Screenshot
 
